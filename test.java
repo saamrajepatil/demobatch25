@@ -1,4 +1,4 @@
-// importing the File class
+// importing the File class test
 import java.io.File;
 
 class Main {
